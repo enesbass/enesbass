@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">former architect, current <b>Full-Stack Developer</b></p>
+<p align="left"><b>Full-Stack Developer</b></p>
 
 ###
 
