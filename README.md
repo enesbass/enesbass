@@ -19,6 +19,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="32" alt="swift logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://i0.wp.com/restapp.io/wp-content/uploads/2022/04/Logo-Microsoft-SQL-Server.png?fit=395%2C420&ssl=1" height="32" />
